@@ -1,4 +1,5 @@
 
+#variables
 gender = input("What is your gender? [m/f] ")
 weight = int(input("What is your weight in pounds? [number only] "))
 height = int(input("How tall are you in cm? [number only] "))
